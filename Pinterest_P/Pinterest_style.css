@@ -1,0 +1,36 @@
+*{
+    background-color: white;
+}
+
+nav{
+
+}
+
+.Navbar{
+    border: 1px black solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 15px 10px;
+}
+
+.icons{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+
+.NavIcon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50px;
+    border: 1px black solid ;
+    border-radius: 50%;
+    border-style: none;
+}
+
+.NavIcon:active{
+    background-color: aqua;
+}
