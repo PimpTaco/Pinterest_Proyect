@@ -1,6 +1,6 @@
 body{
     margin: 70px;
-    height: 1000px;
+    height: 1100px;
 }
 
 .contenedor{
@@ -30,8 +30,8 @@ body{
     height: 20%;
     display: flex;
     justify-content:space-between;
-    top: 10px;
     position: sticky;
+    top: 10px;
     background-color: white;
 }
 
@@ -161,7 +161,7 @@ input{
     height: 30%;
     display: flex;
     align-items:center;
-    position: absolute;
+    position: relative;
     bottom: 0;
     z-index: -1;
 }
