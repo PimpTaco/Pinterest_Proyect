@@ -1,8 +1,6 @@
-body{
-    margin: 70px;
-}
-
 .contenedor{
+    position: relative;
+    top: 120px;
 	width: 1070px;
     height: 540px;
     margin-left: auto;
